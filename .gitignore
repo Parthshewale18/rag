@@ -1,14 +1,4 @@
-# Node modules
-node_modules/
-
-# Logs
-logs/
-*.log
-
-# Environment variables
 .env
-.env.*
-!.env.example
-
-# Python virtual env
+chroma_db/
 venv/
+__pycache__/
