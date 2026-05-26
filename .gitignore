@@ -1,8 +1,14 @@
-# .gitignore
-# Ignore node modules
-# Ignore logs
+# Node modules
+node_modules/
+
+# Logs
 logs/
 *.log
-# Ignore environment variables
+
+# Environment variables
 .env
+.env.*
+!.env.example
+
+# Python virtual env
 venv/
