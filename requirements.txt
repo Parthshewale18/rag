@@ -4,3 +4,4 @@ langchain-huggingface
 langchain-text-splitters
 langchain-chromadb
 python-dotenv
+langchain-google-genai
