@@ -1,5 +1,3 @@
-# rag
-
 # 📚 RAG — Retrieval-Augmented Generation Pipeline
 
 A conversational **Retrieval-Augmented Generation (RAG)** pipeline built with [LangChain](https://www.langchain.com/), [ChromaDB](https://www.trychroma.com/), and [Google Gemini](https://ai.google.dev/). Ingest text documents, store them as vector embeddings, and ask natural-language questions — with full conversation-history awareness.
